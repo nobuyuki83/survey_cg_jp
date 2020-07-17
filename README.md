@@ -1,1 +1,1 @@
-# cg_paper_survey_jp
+# CG系の読んだ論文のサーベイ
