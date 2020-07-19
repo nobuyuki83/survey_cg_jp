@@ -14,6 +14,7 @@
 ## マテリアルに関する論文
 
 - [Material Memex: Automatic Material Suggestions for 3D Objects](https://github.com/nobuyuki83/survey_cg_jp/issues/13)
+- [Gaussian Material Synthesis](https://github.com/nobuyuki83/survey_cg_jp/issues/14)
 
 
 ## レンダリングに関する論文
