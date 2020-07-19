@@ -17,3 +17,4 @@
 - [Anisotropic Gaussian Mutations for Metropolis Light Transport through Hessian-Hamiltonian Dynamics](https://github.com/nobuyuki83/survey_cg_jp/issues/9)
 - [Rendering Complex Scenes with Memory-Coherent Ray Tracing](https://github.com/nobuyuki83/survey_cg_jp/issues/10)
 - [Differentiable Monte Carlo Ray Tracing through Edge Sampling](https://github.com/nobuyuki83/survey_cg_jp/issues/11)
+- [Inverse Volume Rendering with Material Dictionaries](https://github.com/nobuyuki83/survey_cg_jp/issues/12)
