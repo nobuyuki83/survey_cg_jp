@@ -15,3 +15,5 @@
 
 - [The iray light transport simulation and rendering system](https://github.com/nobuyuki83/survey_cg_jp/issues/8)
 - [Anisotropic Gaussian Mutations for Metropolis Light Transport through Hessian-Hamiltonian Dynamics](https://github.com/nobuyuki83/survey_cg_jp/issues/9)
+- [Rendering Complex Scenes with Memory-Coherent Ray Tracing](https://github.com/nobuyuki83/survey_cg_jp/issues/10)
+- [Differentiable Monte Carlo Ray Tracing through Edge Sampling](https://github.com/nobuyuki83/survey_cg_jp/issues/11)
