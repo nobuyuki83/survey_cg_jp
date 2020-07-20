@@ -15,11 +15,11 @@
 
 - [Material Memex: Automatic Material Suggestions for 3D Objects](https://github.com/nobuyuki83/survey_cg_jp/issues/13)
 - [Gaussian Material Synthesis](https://github.com/nobuyuki83/survey_cg_jp/issues/14)
-- [Mitsuba 2: A Retargetable Forward and Inverse Renderer](https://github.com/nobuyuki83/survey_cg_jp/issues/15)
 
 
 ## レンダリングに関する論文
 
+- [Mitsuba 2: A Retargetable Forward and Inverse Renderer](https://github.com/nobuyuki83/survey_cg_jp/issues/15)
 - [The iray light transport simulation and rendering system](https://github.com/nobuyuki83/survey_cg_jp/issues/8)
 - [Anisotropic Gaussian Mutations for Metropolis Light Transport through Hessian-Hamiltonian Dynamics](https://github.com/nobuyuki83/survey_cg_jp/issues/9)
 - [Rendering Complex Scenes with Memory-Coherent Ray Tracing](https://github.com/nobuyuki83/survey_cg_jp/issues/10)
