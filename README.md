@@ -1,15 +1,22 @@
 # CG系の読んだ論文のサーベイ
 
 
-## 色に関する論文
+## 画像処理
 
+### マッティング
 - [Multi-scale image harmonization](https://github.com/nobuyuki83/survey_cg_jp/issues/7)
+
+### カラーテーマ
 - [Probabilistic color-by-numbers: suggesting pattern colorizations using factor graphs](https://github.com/nobuyuki83/survey_cg_jp/issues/6)
 - [Example-based image color and tone style enhancement](https://github.com/nobuyuki83/survey_cg_jp/issues/5)
 - [Data-Driven Image Color Theme Enhancement](https://github.com/nobuyuki83/survey_cg_jp/issues/4)
-- [Color2Gray: Salience-Preserving Color Removal](https://github.com/nobuyuki83/survey_cg_jp/issues/3)
 - [Color Harmonization](https://github.com/nobuyuki83/survey_cg_jp/issues/2)
+- [Color Compatibility From Large Datasets](https://github.com/nobuyuki83/survey_cg_jp/issues/16)
+
+### グレースケール画像とカラー画像の変換
 - [Colorization Using Optimization](https://github.com/nobuyuki83/survey_cg_jp/issues/1)
+- [Color2Gray: Salience-Preserving Color Removal](https://github.com/nobuyuki83/survey_cg_jp/issues/3)
+
 
 ## マテリアルに関する論文
 
